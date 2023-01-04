@@ -10,5 +10,11 @@
             "age": "21",
             "place": "pune"
         }
+    ],
+    "teachers": [
+        {
+            "name": "Dipesh Gehlot",
+            "age": "39"
+        }
     ]
 }
