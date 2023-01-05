@@ -1,20 +1,3 @@
 {
-    "students": [
-        {
-            "name": "Rohit Singh",
-            "age": "22",
-            "place": "sumerpur"
-        },
-        {
-            "name": "Jigar Puri",
-            "age": "21",
-            "place": "pune"
-        }
-    ],
-    "teachers": [
-        {
-            "name": "Dipesh Gehlot",
-            "age": "39"
-        }
-    ]
+    "cars": []
 }
